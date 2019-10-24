@@ -15,9 +15,8 @@ Original Paper   : Identifying Medical Diagnoses and Treatable Diseases by Image
                    (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
                    https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 ```      
-
+### Dataset Details
 ```
-Dataset Details
 Dataset Name            : Chest X-Ray Images (Pneumonia)
 Number of Class         : 2
 Number/Size of Images   : Total      : 5856 
@@ -43,8 +42,8 @@ Validation set loss     : 0.1075
 Validation set accuracy : 0.9162 (91.62%)
 ```
 
+### Detailed results
 ```
-Detailed results
 confusion matrix : https://github.com/rohanchoudharyy/Pneumonia-detection-using-deep-learning/blob/master/confusion%20matrix.jpg
 Results : https://github.com/rohanchoudharyy/Pneumonia-detection-using-deep-learning/blob/master/results.jpg
 ```
