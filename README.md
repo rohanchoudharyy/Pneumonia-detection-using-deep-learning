@@ -8,9 +8,9 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 ## Dataset
 ```
 Dataset Name     : Chest X-Ray Images (Pneumonia)
-Dataset Link     : [Chest X-Ray Images (Pneumonia) Dataset (Kaggle)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-                 : [Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)](https://data.mendeley.com/datasets/rscbjbr9sj/2)
-Original Paper   : [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
+Dataset Link     : [Chest X-Ray Images (Pneumonia) Dataset (Kaggle)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+                 : [Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)](https://data.mendeley.com/datasets/rscbjbr9sj/2).
+Original Paper   : [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5).
                    (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
                    https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 ```      
