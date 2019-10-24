@@ -9,8 +9,9 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 ```
 Dataset Name     : Chest X-Ray Images (Pneumonia)
 Dataset Link     : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-                 : [Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)](https://data.mendeley.com/datasets/rscbjbr9sj/2).
-Original Paper   : [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5).
+                 : (Original Dataset) https://data.mendeley.com/datasets/rscbjbr9sj/2)
+Original Paper   : Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning
+                   (https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
                    (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
                    https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 ```      
@@ -44,6 +45,12 @@ Validation set accuracy : 0.9162 (91.62%)
 
 ```
 Detailed results
-[confusion matrix]https://github.com/rohanchoudharyy/Pneumonia-detection-using-deep-learning/blob/master/confusion%20matrix.jpg
-
-[Results]https://github.com/rohanchoudharyy/Pneumonia-detection-using-deep-learning/blob/master/results.jpg
+confusion matrix : https://github.com/rohanchoudharyy/Pneumonia-detection-using-deep-learning/blob/master/confusion%20matrix.jpg
+Results : https://github.com/rohanchoudharyy/Pneumonia-detection-using-deep-learning/blob/master/results.jpg
+```
+### Tools and Libraries
+```
+Languages               : Python
+Tools/IDE               : Anaconda, Spyder
+Libraries               : Keras, TensorFlow
+```
